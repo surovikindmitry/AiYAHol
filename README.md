@@ -27,8 +27,8 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/surovikindmitry/YaGptHoliday.git
-cd YaGptHoliday
+git clone https://github.com/surovikindmitry/AiYAHol.git
+cd AiYAHol
 ```
 
 2. Установить зависимости:
@@ -36,7 +36,7 @@ cd YaGptHoliday
 pip install -r requirements.txt
 ```
 
-3. Создать файл `.env` на основе примера `.env.example` и заполнить необходимые переменные окружения:
+3. Создать файл `.env` на основе примера `env.example` и заполнить необходимые переменные окружения:
 ```bash
 cp .env.example .env
 ```
