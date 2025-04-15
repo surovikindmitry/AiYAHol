@@ -1,4 +1,4 @@
-# YaGptHoliday Telegram Bot
+# AiYAHol Telegram Bot
 
 Телеграм-бот, который ежедневно публикует информацию о праздниках и знаменательных датах в канал, используя YandexGPT.
 
